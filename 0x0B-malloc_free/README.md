@@ -1,9 +1,9 @@
-## 0x0B. C - malloc, free
+# 0x0B. C - malloc, free
 
-# Concepts
+## Concepts
 Automatic and dynamic allocation, malloc and free.
 
-# General
+## General
 * Difference between automatic and dynamic allocation.
 * How to use `malloc` and `free` 
 * Why and when to use `malloc` 
