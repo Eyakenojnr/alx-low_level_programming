@@ -50,7 +50,7 @@ char **strtow(char *str)
 	char **s, *ts;
 	int l, l2, wc, i, j, fr, k;
 
-	if (str == NULL || *str++ 0)
+	if (str == NULL || *str == 0)
 		return (0);
 	fr = 0;
 	wc = _wcount(str);
