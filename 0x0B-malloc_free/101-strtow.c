@@ -21,7 +21,7 @@ int _wcount(char *sw)
 			wc++;
 		if (*(sw + l) != ' ' && *(sw + l + 1) == 0)
 			wc++;
-		i++;
+		l++;
 	}
 	return (wc);
 }
