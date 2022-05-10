@@ -3,10 +3,9 @@
 #include <stdlib.h>
 /**
  * _wcount - counts number of words
- *
  * @sw: string
  *
- * Return: integer
+ * Return: int
  */
 int _wcount(char *sw)
 {
@@ -17,20 +16,19 @@ int _wcount(char *sw)
 		l++;
 	while (*(sw + l))
 	{
-		if (*(sw + l) == ' ' && *(sw + l + 1) != ' ')
+		if (*(sw + l) == ' ' && *(sw + l - 1) != ' ')
 			wc++;
-		if (*(sw + l) != ' ' && *(sw + l + 1) == 0)
+		if (*(sw + l) != ' '  && *(sw + l + 1) == 0)
 			wc++;
 		l++;
 	}
 	return (wc);
 }
 /**
- * *_trspace - moves address to remove trailing whitespaces
- *
+ * _trspace - Moves adress to remove trailig whitespaces
  * @st: string
  *
- * Return: pointer
+ * Return: Pointer
  */
 char *_trspace(char *st)
 {
@@ -39,11 +37,10 @@ char *_trspace(char *st)
 	return (st);
 }
 /**
- * **strtow - function that splits a string into words
- *
+ * strtow - splits a string into words
  * @str: string
  *
- * Return: Double pointer
+ * Return: Double Pointer
  */
 char **strtow(char *str)
 {
