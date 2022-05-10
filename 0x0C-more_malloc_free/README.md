@@ -1,4 +1,4 @@
-# 0x0C. C - More mallloc, free
+# 0x0C. C - More malloc, free
 
 ## Concepts
 * Automatic and dynamic allocation, malloc and free
