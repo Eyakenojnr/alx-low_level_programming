@@ -13,7 +13,7 @@ int main(int argc, char *argv[])
 	register int i, num;
 	char *ptr = (char *)main;
 
-	if (arhc != 2)
+	if (argc != 2)
 		printf("Error\n"), exit(1);
 	num = atoi(argv[1]);
 	if (num < 0)
