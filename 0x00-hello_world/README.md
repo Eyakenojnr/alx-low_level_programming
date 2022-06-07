@@ -9,4 +9,4 @@
 * [Understanding C program Compilation Process](https://m.youtube.com/watch?v=VDslRumKvRA&t=2s/)
 * [Betty Coding Style](https://github.com/holbertonschool/Betty/wiki/)
 * [Hash-bang under the hood](https://twitter.com/unix_byte/status/1024147947393495040?t=TdpGBYwQS7VQ590Masa1vg&s=19/)
-* [Linus Torvalds on C vs. C++](http://www.harmful.cat-v.org/software/c++/linus/)
+* [Linus Torvalds on C vs. C++](http://harmful.cat-v.org/software/c++/linus/)
