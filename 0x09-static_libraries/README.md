@@ -1,2 +1,4 @@
-* **Static Libraries;** how does it work, how to create one, and how to use it.
-* Basic usage of `ar`, `ranlib`, `nm`
+# 0x09. C - Static libraries
+## Resources
+### Read or watch:
+* [What is a "C" Library? What Is It Good For?](https://docencia.ac.upc.edu/FIB/USO/Bibliografia/unix-c-libraries.html/)
