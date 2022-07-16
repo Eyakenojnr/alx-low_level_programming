@@ -1,7 +1,7 @@
 # 0x08. C - Recursion
 ## Resources
 ### Read or watch:
-* [0x08. Recursion, introduction](https://www.alx-intranet.hbtn.io/rltoken/dzZB83Hm3lO7dScjhebAxw/)
+* [0x08. Recursion, introduction](https://alx-intranet.hbtn.io/rltoken/dzZB83Hm3lO7dScjhebAxw/)
 * [What on Earth is Recursion?](https://m.youtube.com/watch?v=Mv9NEXX1VHc&t=8s)
 * [C - Recursion](https://www.tutorialspoint.com/cprogramming/c_recursion.htm)
 * [C Programming Tutorial 85, Recursion pt.1](https://m.youtube.com/watch?v=XGxbXMP6k8k&t=9s)
